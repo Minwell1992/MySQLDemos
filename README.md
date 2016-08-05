@@ -1,0 +1,1 @@
+本项目主要是记录了MySQL常用的语句，与[数据库相关操作](http://minwell1992.github.io/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3%E6%93%8D%E4%BD%9C.html)相对应，感兴趣可以看一看。
